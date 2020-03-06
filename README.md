@@ -1,7 +1,8 @@
 # Cool-Visualizations
+
 This is where I keep the codes for my combination charts.
 
-1) Bar chart with two variables in x-axis and annotations showing the change in each bar
+<h2>1) Bar chart with two variables in x-axis and annotations showing the change in each bar</h2>
 
 You can use this code for:
 * Bar chart with two variables in x-axis

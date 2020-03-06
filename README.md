@@ -22,3 +22,12 @@ This is a good visualization for when you want to see if there is a correlation 
 <img src = 'Correlation_Chart.PNG'> <br>
 The chart above shows there is a stron correlation (R = 0.74) Between the number of customer visits and the number of items we sell. Each orange dot on the plot represents a sales representative.
 
+
+
+<br><br><br>
+
+<h2>2) Annotation With Arrow</h2>
+
+This is a good way of pointing something interesting on your plot. Lets say you want to point the reduction in sales between 2018 and 2019, then you can use an arrow to point it. You can also acompany it with a text showing the percentage in the reduction.
+<br>
+<img src='Annotation_with_Arrow.PNG'>

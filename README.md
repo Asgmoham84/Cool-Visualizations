@@ -3,6 +3,7 @@
 This is where I keep the codes for my combination charts.
 
 <h2>1) Bar chart with two variables in x-axis and custom annotations showing the change in each bar</h2>
+please click <a href = ''
 
 You can use this code for:
 * Bar chart with two variables in x-axis
@@ -12,4 +13,12 @@ In this part of code, we will show how to create a bar chart with two variables 
 
 
 <img src = 'BarChart_Two_Variables.PNG'>
+<br><br><br>
+
+<h2>2) A combination Chart Showing Correlation Between Two Variables With R-Value as an Annotation</h2>
+
+This is a good visualization for when you want to see if there is a correlation between two variables. For example, if you want to see whether or not there is a correlation between the number of customer visits of the sales representatives and the number of items sold, you can map the two variables on the same chart, one could be a scatter plot, and the other a line plot. You can also calculate the R Value (Correlation Coefficient) and show it on the plot as an annotation.<br>
+
+<img src = 'Correlation_Chart.PNG'> <br>
+The chart above shows there is a stron correlation (R = 0.74) Between the number of customer visits and the number of items we sell.
 

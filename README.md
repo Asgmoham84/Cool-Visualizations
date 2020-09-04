@@ -31,3 +31,12 @@ The chart above shows there is a stron correlation (R = 0.74) Between the number
 This is a good way of pointing something interesting on your plot. Lets say you want to point the reduction in sales between 2018 and 2019, then you can use an arrow to point it. You can also acompany it with a text showing the percentage in the reduction.
 <br>
 <img src='Annotation_with_Arrow.PNG'>
+
+
+<br><br><br>
+<h2>2) Comparing Values with Dumbbell Chart</h2>
+
+This chart is a combination of a line chart and a dumbbell chart. This is a perfect way of showing change in multiple variables. Lets say showing change in number of sales by sales representatives. We combined the dumbbell chart with a line graph and also annotations to make the chart even better for making the comparision. In this chart, we assumed there are 100 sales representatives, an we ranked them based on their sales in 2018 (this is a dummy data we created), so the line chart shows the ranking, meaning that the sales person number 1 has the highest sales (at ), and the tail if the line chart shows the lowest sales pesons based on their sales performance. Now the dumbbell chart shows how much each sales person has changed in 2019 compared to 2018. So, the dots that are above the line, are the ones whose performance has increased( we also panted them in green) and the distance between the line and the dot shows the amount of increase in their performance. And the dots that are below the line are the sales persons whose performance has decreased (we painted them in red). <br>
+In addition, what maked this chart even more specific is that we put an annotation on it that has an arrow pointing to a dot that is representing the sales person who is going to receive this report. With this report, each sales person could see where they were in 2018 compared to their peers and also how every sales person has changed (anonymously), and where they stand compared to others. <br>
+If you would like to use the code, please refer to Cool Visualizations.ipynb file in the repository. <br>
+
